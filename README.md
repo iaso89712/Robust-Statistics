@@ -8,6 +8,7 @@ Section 2
 Section 3
 
 Section 4
+
 4.2 - MCDStudy.ipynb
 4.4 - MultivariateSim.R 
 
