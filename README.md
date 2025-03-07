@@ -1,4 +1,4 @@
-Robust Statistics Project
+Robust Statistics Project: Code Appendix
 
 Please read ahead to find the relevant section in the report for each file in the repository:
 
